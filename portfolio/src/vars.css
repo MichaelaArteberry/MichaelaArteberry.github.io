@@ -3,8 +3,8 @@
 --color-text: pink;
 --color-primary: #576cbc;
 --color-secondary: #19376d;
---color-dark: #0b2447;
---color-bg: #04152d;
+--color-dark: black;
+--color-bg: darkgray;
 
 /* Fonts */
 --font-roboto: 'Roboto';
