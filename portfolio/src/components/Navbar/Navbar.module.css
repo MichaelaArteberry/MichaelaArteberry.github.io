@@ -9,6 +9,7 @@
     z-index: 2;
     margin: 0 10%;
     background-color: var(--color-bg);
+
 }
 
 .title {
@@ -16,11 +17,17 @@
     font-weight: 600;
     text-decoration: none;
     color: var(--color-text);
+    background: transparent;
+    border: none;
+    box-shadow: none;
+
 }
 
 .menu {
     display: flex;
-
+    background: transparent;
+    border: none;
+    box-shadow: none;
 }
 
 .menuItems {
@@ -31,8 +38,7 @@
 
 .menuItems a {
     font-size: 25px;
-    color: var(--color-text);
-
+    color: var(--color-dark);
 }
 
 .menuBtn {
@@ -59,6 +65,9 @@
     .menuBtn {
         display: block;
         cursor: pointer;
+        background: transparent;
+        border: none;
+        box-shadow: none;
     }
 
     .menuItems {
@@ -67,14 +76,13 @@
         align-items: center;
         gap: 13px;
         border-radius: 10px;
-        background: rgb(25, 55, 109);
-        background: linear-gradient(0deg, rgba(25, 55 ,109, 0.2) 0%, rgba(25, 55, 109, 1) 100%);
+        background: linear-gradient(0deg, rgba(220, 220 ,220, 0.2) 0%, rgba(220, 220, 220, 1) 100%);
         padding: 24px 33px;
-        box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
     }
 
     .menuOpen {
         display: flex;
         z-index: 1;
+        background-color: black;
     }
 }
