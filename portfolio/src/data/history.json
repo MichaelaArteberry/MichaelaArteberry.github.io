@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Lead Salesperson",
+        "organization": "Best Tire Center, Tires To You",
+        "startDate": "December 2019",
+        "endDate": "June 2021",
+        "responsibilities": ["Exceeded sales targets", "Prioritized customer safety", "Drove operational excellence, elevating store ratings", "Contributing significantly to company success"],
+        "imageSrc": "history/best-tire-center-icon.png"
+    },
+    {
+        "role": "Special Systems Administrative Assistant",
+        "organization": "Electra Link, Inc.",
+        "startDate": "April 2019",
+        "endDate": "November 2019",
+        "responsibilities": ["Handled billing", "Work orders", "Calls, meetings, and travel arrangements with precision and efficiency."],
+        "imageSrc": "history/electra-link-icon.png"
+    },
+    {
+        "role": "Behavioral Health Specialist",
+        "organization": "U.S. Army",
+        "startDate": "June 2015",
+        "endDate": "January 2019",
+        "responsibilities": ["Provided mental health services to soldiers and their families", "Conducted individual and group therapy sessions", "Assessed and diagnosed mental health disorders", "Developed treatment plans and provided crisis intervention", "Collaborated with other healthcare professionals to provide comprehensive care"],
+        "imageSrc": "history/army-icon.png"
+    }
+]
