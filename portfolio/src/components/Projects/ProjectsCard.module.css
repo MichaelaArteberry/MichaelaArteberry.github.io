@@ -1,0 +1,81 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0 16px 14px 0 rgba(0, 0, 0, 0.5);
+    background: linear-gradient(180deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    padding: 18px 24px;
+    max-width: 345px;
+}
+
+.container:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s;
+}
+
+.image {
+    margin-bottom: 26px;
+}
+
+.title {
+    font-size: 25px;
+    font-family: var(--font-roboto);
+    font-weight: 700;
+    background: none;
+}
+
+.description {
+    font-size: 25px;
+    font-family: var(--font-roboto);
+    font-weight: 400;
+    margin-top: 6px;
+    background: none;
+}
+
+.skills {
+    width: 100%;
+    margin-top: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 6px;
+    list-style: none;
+    background: none;
+}
+
+.skill {
+    font-size: 25px;
+    font-weight: 400;
+    background: var(--color-dark);
+    padding:2px 23px;
+    border-radius: 100px;
+}
+
+.skill:hover {
+    background: var(--color-secondary);
+    transition: background 0.3s;
+}
+
+.links {
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-around;
+    background: none;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 30px;
+    color: var(--color-text);
+    font-weight: 600;
+    padding: 1px 22px;
+    border-radius: 100px;
+}
+
+.link:hover {
+    background: var(--color-dark);
+    transition: background 0.3s;
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "title": "CarCar",
+        "imageSrc": "projects/coding-project-pic.png",
+        "description": "description here",
+        "skills": ["React", "MongoDB", "JavaScript", "HTML", "CSS", "Bootstrap"],
+        "demo": "",
+        "source": ""
+    },
+    {
+        "title": "ConferenceGo",
+        "imageSrc": "projects/coding-project-pic.png",
+        "description": "description here",
+        "skills": ["React", "MongoDB", "JavaScript", "HTML", "CSS", "Bootstrap"],
+        "demo": "",
+        "source": ""
+    }
+]
