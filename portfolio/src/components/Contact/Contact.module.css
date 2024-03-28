@@ -3,7 +3,7 @@
 .container {
     color: var(--color-text);
     margin-top: 120px;
-    background-color: var(--color-secondary);
+    background-color: var(--color-primary);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -29,12 +29,14 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 26px;
+    background: none;
 }
 
 .link {
     display: flex;
     align-items: center;
     gap: 25px;
+    background: none;
 }
 
 .link a {
@@ -43,6 +45,16 @@
     font-size: 30px;
     font-weight: 400;
     letter-spacing: 1.5px;
+    background: none;
+}
+
+.link a:hover {
+    color: var(--color-secondary);
+}
+
+li img {
+    border-radius: 100px;
+    padding: 12px;
 }
 
 @media screen and (max-width: 830px) {

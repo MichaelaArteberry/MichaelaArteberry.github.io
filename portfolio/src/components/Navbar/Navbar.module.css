@@ -25,7 +25,7 @@
 
 .menu {
     display: flex;
-    background: transparent;
+    background: none;
     border: none;
     box-shadow: none;
 }
@@ -34,16 +34,22 @@
     display: flex;
     gap: 47px;
     list-style: none;
+    background: none;
 }
 
 .menuItems a {
     font-size: 25px;
     color: var(--color-dark);
+    text-decoration: none;
+    background: none;
+    padding: 10px 0;
+    margin: 2px;
 }
 
 .menuBtn {
     height: 40px;
     width: 40px;
+    display: none;
 }
 
 @media screen and (max-width: 830px) {
