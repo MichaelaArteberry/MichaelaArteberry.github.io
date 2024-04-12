@@ -12,15 +12,15 @@ const Contact = () => {
                 <ul className={styles.links}>
                     <li className={styles.link}>
                         <img src={getImageUrl("contact/emailIcon.png")} alt="email" />
-                        <a href="mailto:michaela.arteberry@gmail.com">Email Me!</a>
+                        <a target="_blank" href="mailto:michaela.arteberry@gmail.com">Email Me!</a>
                     </li>
                     <li className={styles.link}>
                         <img src={getImageUrl("contact/linkedInIcon.png")} alt="linkedIn" />
-                        <a href="https://www.linkedin.com/in/michaela-arteberry-828461172/">Connect with me on LinkedIn!</a>
+                        <a target="_blank" href="https://www.linkedin.com/in/michaela-arteberry-828461172/">Connect with me on LinkedIn!</a>
                     </li>
                     <li className={styles.link}>
                         <img src={getImageUrl("contact/githubIcon.png")} alt="github" />
-                        <a href="https://github.com/MichaelaArteberry">Visit my GitHub!</a>
+                        <a target="_blank" href="https://github.com/MichaelaArteberry">Visit my GitHub!</a>
                     </li>
                 </ul>
         </footer>
