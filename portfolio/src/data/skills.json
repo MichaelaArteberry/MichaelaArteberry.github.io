@@ -14,5 +14,9 @@
     {
         "title": "REACT",
         "imageSrc": "skills/REACT.png"
+    },
+    {
+        "title": "POSTGRESQL",
+        "imageSrc": "skills/Postgres-icon.png"
     }
 ]
