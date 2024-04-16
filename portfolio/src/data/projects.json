@@ -2,17 +2,17 @@
     {
         "title": "CarCar",
         "imageSrc": "projects/coding-project-pic.png",
-        "description": "description here",
+        "description": "Keep track of service appointments, technicians, salespeople and sales for your car dealership.",
         "skills": ["React", "MongoDB", "JavaScript", "HTML", "CSS", "Bootstrap"],
         "demo": "",
-        "source": ""
+        "source": "https://gitlab.com/MichaelaArteberry/project-beta"
     },
     {
         "title": "ConferenceGo",
         "imageSrc": "projects/coding-project-pic.png",
-        "description": "description here",
+        "description": "Create, and manage conferences, speakers, and attendees.",
         "skills": ["React", "MongoDB", "JavaScript", "HTML", "CSS", "Bootstrap"],
         "demo": "",
-        "source": ""
+        "source": "https://gitlab.com/MichaelaArteberry/conference-go"
     }
 ]

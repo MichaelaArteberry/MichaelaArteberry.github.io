@@ -22,6 +22,10 @@ const Contact = () => {
                         <img src={getImageUrl("contact/githubIcon.png")} alt="github" />
                         <a target="_blank" href="https://github.com/MichaelaArteberry">Visit my GitHub!</a>
                     </li>
+                    <li className={styles.link}>
+                        <img src={getImageUrl("contact/gitlab-icon.png")} alt="gitlab" />
+                        <a target="_blank" href="https://gitlab.com/MichaelaArteberry">Visit my GitLab!</a>
+                    </li>
                 </ul>
         </footer>
     );
