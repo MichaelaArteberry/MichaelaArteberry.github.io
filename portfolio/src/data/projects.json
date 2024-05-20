@@ -3,7 +3,7 @@
         "title": "CarCar",
         "imageSrc": "projects/coding-project-pic.png",
         "description": "Keep track of service appointments, technicians, salespeople and sales for your car dealership.",
-        "skills": ["React", "MongoDB", "JavaScript", "HTML", "CSS", "Bootstrap"],
+        "skills": ["React", "JavaScript", "HTML", "CSS", "Bootstrap"],
         "demo": "",
         "source": "https://gitlab.com/MichaelaArteberry/project-beta"
     },
@@ -11,8 +11,16 @@
         "title": "ConferenceGo",
         "imageSrc": "projects/coding-project-pic.png",
         "description": "Create, and manage conferences, speakers, and attendees.",
-        "skills": ["React", "MongoDB", "JavaScript", "HTML", "CSS", "Bootstrap"],
+        "skills": ["React", "JavaScript", "HTML", "CSS", "Bootstrap"],
         "demo": "",
         "source": "https://gitlab.com/MichaelaArteberry/conference-go"
+    },
+    {
+        "title": "Us by MatchMakers",
+        "imageSrc": "projects/us.png",
+        "description": "A dating app that allows users to like or dislike other users, and create matches.",
+        "skills": ["React", "PostgreSQL", "JavaScript", "Redux", "CSS", "Tailwind", "Typescript"],
+        "demo": "",
+        "source": "https://gitlab.com/matchmakers/us"
     }
 ]
