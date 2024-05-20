@@ -7,7 +7,7 @@ const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
     return <nav className={styles.navbar}>
-        <a target="_blank" className={styles.title} href="/Resume/Resume-2.pdf">Resume</a>
+        <a target="_blank" className={styles.title} href="/Resume/Resume.pdf">Resume</a>
         <div className={styles.menu}>
 
             <img className={styles.menuBtn} src={
