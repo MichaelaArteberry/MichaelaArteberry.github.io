@@ -82,7 +82,7 @@
     }
 }
 
-.topBlur {
+/* .topBlur {
     position: absolute;
     width: 30vw;
     height: 30vw;
@@ -94,7 +94,7 @@
     background-color: rgba(211, 211, 211, 0.7);
     filter: blur(100px);
     z-index: 0;
-}
+} */
 
 .bottomBlur {
     position: absolute;
@@ -103,7 +103,7 @@
     min-width: 200px;
     min-width: 200px;
     top: -118px;
-    left: 40vw;
+    left: 53vw;
     border: 700px;
     background-color: rgba(211, 211, 211, 0.7);
     filter: blur(100px);

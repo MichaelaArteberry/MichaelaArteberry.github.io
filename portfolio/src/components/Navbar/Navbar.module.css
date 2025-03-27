@@ -5,22 +5,22 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 61px;
+    padding: .5%;
     z-index: 2;
-    margin: 0 10%;
     background-color: var(--color-primary);
+    width: 100%;
 
 }
 
 .title {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600;
     text-decoration: none;
-    color: var(--color-text);
+    color: var(--color-bg);
     background: transparent;
     border: none;
     box-shadow: none;
-
+    padding: 15px;
 }
 
 .menu {
@@ -28,6 +28,7 @@
     background: none;
     border: none;
     box-shadow: none;
+    margin: .5%;
 }
 
 .menuItems {
@@ -35,6 +36,15 @@
     gap: 47px;
     list-style: none;
     background: none;
+    border-radius: 30px;
+}
+
+.menuItem {
+    background-color: var(--color-secondary);
+    border-radius: 10px;
+    padding: 10px;
+    color: var(--color-bg);
+    margin: auto
 }
 
 .menuItems a {
@@ -82,20 +92,20 @@
         align-items: center;
         gap: 13px;
         border-radius: 10px;
-        background: linear-gradient(0deg, rgba(220, 220 ,220, 0.2) 0%, rgba(220, 220, 220, 1) 100%);
+        background: linear-gradient(0deg, rgba(125, 134 ,156, 0.1) 0%, rgba(220, 220, 220, 1) 100%);
         padding: 24px 33px;
     }
 
     .menuOpen {
         display: flex;
         z-index: 1;
-        background-color: black;
+        background-color: var(--color-bg);
     }
 }
 
 .resumeContainer {
     margin: 20px auto;
     width: 80%;
-    height: 600px;
+    height: 1000px;
     border: 1px solid #ccc;
 }

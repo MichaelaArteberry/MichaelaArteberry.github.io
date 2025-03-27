@@ -24,10 +24,10 @@ const Navbar = () => {
                         onClick={() => setMenuOpen(!menuOpen)}
                     />
                     <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`} onClick={() => setMenuOpen(false)}>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#experience">Experience</a></li>
-                        <li><a href="#projects">Projects</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li className={`${styles.menuItem}`}><a href="#about">About</a></li>
+                        <li className={`${styles.menuItem}`}><a href="#experience">Experience</a></li>
+                        <li className={`${styles.menuItem}`}><a href="#projects">Projects</a></li>
+                        <li className={`${styles.menuItem}`}><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
             </nav>
@@ -36,7 +36,7 @@ const Navbar = () => {
                     <iframe
                         src="/Resume/Resume.pdf"
                         width="100%"
-                        height="600px"
+                        height="1000px"
                         title="Resume"
                     >
                     </iframe>
