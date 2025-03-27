@@ -13,18 +13,18 @@
 }
 
 .link a {
-    color: pink;
+    color: var(--color-bg);
     text-decoration: none;
     font-weight: 400;
     background: none;
 }
 
 .link a:hover {
-    color: pink;
+    color: var(--color-bg);
 }
 
 .link a:after {
-    color: pink;
+    color: var(--color-bg);
 }
 
 .title {
@@ -77,7 +77,7 @@
 .aboutItem h3 {
     font-size: 25px;
     font-weight: 600;
-    color: maroon;
+    color: var(--color-bg);
 }
 
 .aboutItem p {

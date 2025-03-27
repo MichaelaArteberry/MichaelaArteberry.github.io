@@ -1,8 +1,8 @@
 :root {
     /* Colours */
     --color-text: #fff; /* this is the text color */
-    --color-primary: black; /* not seeing where this is being used at */
-    --color-bg: #F9E0D9; /* this is the being used as the background */
+    --color-bg: black; /* not seeing where this is being used at */
+    --color-primary: #F9E0D9; /* this is the being used as the background */
     --color-dark: #70798C; /* this is on the projects for the technologies used */
     --color-secondary: #702632; /* this is the secondary background stuff */
 
