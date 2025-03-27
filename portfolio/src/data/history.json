@@ -1,26 +1,26 @@
 [
     {
+        "role": "Military Fellowship Full Stack Software Engineer",
+        "organization": "Verizon",
+        "startDate": "January 2025",
+        "endDate": "Present",
+        "responsibilities": ["Collaborated with a team to migrate legacy frontend components to a new API, improving performance and maintainability", "Completed user stories using Jira, including building dynamic pop-up overlays based on customer flags and redesigning alert systems to enhance user experience", "Fixed filtering and search issues on product display pages, ensuring accurate and responsive results", "Modified form layouts by resizing input fields and implementing real-time error validation for a smoother user experience", "Self-taught Angular and TypeScript to successfully contribute to the codebase and complete tasks with minimal guidance", "Participated in daily stand-ups, sprint planning, and code reviews to maintain an agile workflow and ensure code quality"],
+        "imageSrc": "history/verizon-logo-icon.png"
+    },
+    {
         "role": "Lead Salesperson",
         "organization": "Best Tire Center, Tires To You",
         "startDate": "December 2019",
         "endDate": "June 2021",
-        "responsibilities": ["Exceeded sales targets", "Prioritized customer safety", "Drove operational excellence, elevating store ratings", "Contributing significantly to company success"],
+        "responsibilities": ["Exceeded sales targets", "Prioritized customer safety", "Drove operational excellence, elevating store ratings", "Contributing significantly to company success", "Mentored new employees", "Managed inventory and ordering", "Provided excellent customer service"],
         "imageSrc": "history/best-tire-center-icon.png"
-    },
-    {
-        "role": "Special Systems Administrative Assistant",
-        "organization": "Electra Link, Inc.",
-        "startDate": "April 2019",
-        "endDate": "November 2019",
-        "responsibilities": ["Handled billing", "Work orders", "Calls, meetings, and travel arrangements with precision and efficiency."],
-        "imageSrc": "history/electra-link-icon.png"
     },
     {
         "role": "Behavioral Health Specialist",
         "organization": "U.S. Army",
         "startDate": "June 2015",
         "endDate": "January 2019",
-        "responsibilities": ["Provided mental health services to soldiers and their families", "Conducted individual and group therapy sessions", "Assessed and diagnosed mental health disorders", "Developed treatment plans and provided crisis intervention", "Collaborated with other healthcare professionals to provide comprehensive care"],
+        "responsibilities": ["Provided mental health services to soldiers and their families", "Conducted individual and group therapy sessions", "Assessed and diagnosed mental health disorders", "Developed treatment plans and provided crisis intervention", "Collaborated with other healthcare professionals to provide comprehensive care", "Maintained accurate and confidential patient records", "Participated in ongoing training and professional development"],
         "imageSrc": "history/army-icon.png"
     }
 ]
