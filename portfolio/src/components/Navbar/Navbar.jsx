@@ -36,7 +36,7 @@ const Navbar = () => {
                     <iframe
                         src="/Resume/Resume.pdf"
                         width="100%"
-                        height="1000px"
+                        height="600px"
                         title="Resume"
                     >
                     </iframe>
