@@ -2,9 +2,9 @@
     /* Colours */
     --color-text: #fff; /* this is the text color */
     --color-bg: black; /* not seeing where this is being used at */
-    --color-primary: #F9E0D9; /* this is the being used as the background */
+    --color-primary: #F9E0D9; /* this is the being used as secondayr background like nav, about me background, footer, background for history, snd skill bg img and the top of the projects that fades into the secondary color */
     --color-dark: #70798C; /* this is on the projects for the technologies used */
-    --color-secondary: #702632; /* this is the secondary background stuff */
+    --color-secondary: #702632; /* this is the background, contact square in footer, and bg for footer imgs, bg for history text, and for about me text and for the nav bare right side text bg */
 
     /* Fonts */
     --font-roboto: "Roboto";
