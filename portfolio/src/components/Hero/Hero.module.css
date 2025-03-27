@@ -84,10 +84,10 @@
 
 .topBlur {
     position: absolute;
-    width: 50vw;
-    height: 50vw;
-    min-width: 350px;
-    min-width: 350px;
+    width: 30vw;
+    height: 30vw;
+    min-width: 300px;
+    min-width: 300px;
     top: -128px;
     left: -10vw;
     border: 764px;
@@ -98,10 +98,10 @@
 
 .bottomBlur {
     position: absolute;
-    width: 70vw;
-    height: 50vw;
-    min-width: 350px;
-    min-width: 250px;
+    width: 50vw;
+    height: 30vw;
+    min-width: 300px;
+    min-width: 200px;
     top: -128px;
     left: 10vw;
     border: 764px;
