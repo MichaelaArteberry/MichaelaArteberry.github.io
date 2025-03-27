@@ -47,6 +47,8 @@
     width: 30vw;
     height: 30vw;
     border-radius: 50%;
+    margin-right: 50px;
+    padding: auto;
 }
 
 .aboutItems {
