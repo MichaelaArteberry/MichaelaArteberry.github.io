@@ -30,7 +30,7 @@ const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/designIcon.png")} alt="cursor icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>Other Development</h3>
+                            <h3>Other/ Professional Development</h3>
                             <p className={styles.link}>I have experience using Unreal Engine's Blueprint visual scripting system, to create a third-person target shooter game. I explored core game play mechanics such as player movement, aiming and shooting. Experimented with animation blueprints and trigger based actions. My Github repository has the project files {" "}
                             <a href="https://github.com/MichaelaArteberry/First-Unreal-Game" target="_blank" rel="noopener noreferrer">here.</a>
                             </p>

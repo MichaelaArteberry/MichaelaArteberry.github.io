@@ -1,5 +1,6 @@
 @import "../../vars.css";
 
+
 .container {
     position: relative;
     background-color:var(--color-primary);
@@ -9,6 +10,23 @@
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.link a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+    background: none;
+}
+
+.link a:hover {
+    color: var(--color-text);
+}
+
+.link a:after {
+    color: var(--color-text);
 }
 
 .title {
