@@ -13,20 +13,18 @@
 }
 
 .link a {
-    color: var(--color-text);
+    color: pink;
     text-decoration: none;
-    font-size: 30px;
     font-weight: 400;
-    letter-spacing: 1.5px;
     background: none;
 }
 
 .link a:hover {
-    color: var(--color-text);
+    color: pink;
 }
 
 .link a:after {
-    color: var(--color-text);
+    color: pink;
 }
 
 .title {
