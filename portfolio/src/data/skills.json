@@ -8,12 +8,28 @@
         "imageSrc": "skills/CSS.png"
     },
     {
-        "title": "MONGODB",
-        "imageSrc": "skills/MONGODB.png"
+        "title": "JAVASCRIPT",
+        "imageSrc": "skills/javascript-icon.png"
     },
     {
         "title": "REACT",
         "imageSrc": "skills/REACT.png"
+    },
+    {
+        "title": "ANGULAR",
+        "imageSrc": "skills/angular-icon.png"
+    },
+    {
+        "title": "TAILWIND CSS",
+        "imageSrc": "skills/tailwind-icon.png"
+    },
+    {
+        "title": "TYPESCRIPT",
+        "imageSrc": "skills/typescript-icon.png"
+    },
+    {
+        "title": "PYTHON",
+        "imageSrc": "skills/python-icon.png"
     },
     {
         "title": "POSTGRESQL",
